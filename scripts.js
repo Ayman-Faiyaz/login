@@ -1,6 +1,6 @@
 // Admin credentials (use these to access the stored credentials)
-const adminEmail = 'admin911@gmail.com';
-const adminPassword = 'admin123911';
+const adminEmail = 'admin@gmail.com';
+const adminPassword = 'admin123';
 
 // Handle login form submission
 document.getElementById('login-form').addEventListener('submit', function(e) {
